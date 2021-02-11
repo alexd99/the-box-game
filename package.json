@@ -1,6 +1,6 @@
 {
-  "name": "box-game",
-  "version": "0.1.0",
+  "name": "the-box-game",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "react": "^17.0.1",
